@@ -39,7 +39,21 @@ As we can see in the data the mean, as well as the median PSI are nearly identic
 
 ![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/suspension_lot_summary.png)
 
-In this scenario we opted to group the suspension coils by their manufacturing lots and then run a summary of each. This shows us the advantage of digging a little deeper into the data. As we can see lots 1 and 2 have very little variance at all and fit within specifications. However when looking over lot 3 we see that it almost twice the recommended variance of 100 PSI with a 170 PSI variance. This area would need further review. 
+In this scenario we opted to group the suspension coils by their manufacturing lots and then run a summary of each. This shows us the advantage of digging a little deeper into the data. As we can see lots 1 and 2 have very little variance at all and fit within specifications. However when looking over lot 3 we see that it almost twice the recommended variance of 100 PSI with a 170 PSI variance. This confirms the need to analyze the data in more specific groupings and why that can help us uncover issues that might be otherwise hidden within a larger grouping.
+
+
+## T-Tests on Suspension Coils
+
+Lot 1 T-Test:
+![This is an Image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_1_ttest.png)
+
+
+Lot 2 T-Test:
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_2_ttest.png)
+
+
+Lot 3 T-Test:
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_3_ttest.png)
 
 
 
