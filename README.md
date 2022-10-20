@@ -31,6 +31,18 @@ The R-squared value in this model shows as that it is a 0.7149, which means that
 
 ## Summary Statistics on Suspension Coils
 
+Another area that we looked into was the suspension coils of the prototype cars. The design parameters state that we cannot have a variance higher than 100 PSI for the suspension coils. So the first thing we needed to do was to summarize all data coils. 
+
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/suspension_all_summary.png)
+
+As we can see in the data the mean, as well as the median PSI are nearly identical, and the variance is listing as only 62 PSI, this would indicate that we are well within our design specifications. However since there are so many data points it would be of benefit to look at the manufacture lots and determine if they show us anything. 
+
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/suspension_lot_summary.png)
+
+In this scenario we opted to group the suspension coils by their manufacturing lots and then run a summary of each. This shows us the advantage of digging a little deeper into the data. As we can see lots 1 and 2 have very little variance at all and fit within specifications. However when looking over lot 3 we see that it almost twice the recommended variance of 100 PSI with a 170 PSI variance. This area would need further review. 
+
+
+
 
 
 
