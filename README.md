@@ -44,22 +44,34 @@ In this scenario we opted to group the suspension coils by their manufacturing l
 
 ## T-Tests on Suspension Coils
 
+To further review what we saw with the suspension coils in our prior summaries we decided to perform a T-Test
+
+All Manufacturing Lots T-Test:
+
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Suspension_1sample_ttest.png)
+As we can see this T-Test has a mean of 1498 and a P-Value of .06028, this follows along with our prior analysis and confirms that this does not disprove the null hypothesis.
+
+
+
 Lot 1 T-Test:
 
 
 ![This is an Image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_1_ttest.png)
-
+Lot 1 when run in a T-Test also shows a strong indicator that this lot is producing parts within the design specifications overall. The mean is 1500 and the P-Value shows a solid 1.
 
 Lot 2 T-Test:
 
 
 ![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_2_ttest.png)
-
+Lot 2 also shows a fairly solid P-Value of .6072 which still does not disprove the null hypothesis.
 
 Lot 3 T-Test:
 
 
 ![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_3_ttest.png)
+In the case of lot 3 you see a mean that is 1496, however our P-value falls short at .04168. This again confirms that there are issues somewhere within the manufacturing process for this lot, this data shows us that Lot 3 would be were we need to focus attention.
+
+
 
 
 
