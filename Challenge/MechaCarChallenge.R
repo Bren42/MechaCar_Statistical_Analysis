@@ -1,7 +1,9 @@
 library(dplyr)
 mechacar <- read.csv(file = "MechaCar_mpg.csv", check.names = F, stringsAsFactors = F)
-lm(vehicle_length ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg, data = mechacar)
-summary(lm(vehicle_length ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + mpg, data = mechacar))
+
+lm(mpg ~ vehicle_weight + spoiler_angle + vehicle_length + ground_clearance + AWD, data = mechacar)
+
+summary(lm(mpg ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + vehicle_length, data = mechacar))
 
 
 # supsension coil analysis code
