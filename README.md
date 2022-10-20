@@ -76,6 +76,24 @@ Lot 3 T-Test:
 In the case of lot 3 you see a mean that is 1496, however our P-value falls short at .04168. This again confirms that there are issues somewhere within the manufacturing process for this lot, this data shows us that Lot 3 would be were we need to focus attention.
 
 
+## Study Design: MechaCar vs. Competition
+
+We need to determine competitive vectors to analyze to give our vehicle a competitive advantage prior to going to market, this may change the form factor or components of the vehicle in an effort to reduce costs, or add features. We also need to look beyond just the vehicle and see if any parts of our go to market strategy could impact sales of the vehicle. What does the consumer want? from prices to features, the buying experience to the post sales experience what are the end to end factors that go into succesfully increasing our vehicle sales. 
+
+Here are some metrics that should be tested in order to achieve our outcomes.
+
+1. Vehicle Safety features: What safety features are required, versus what features are wanted? how much would this impact the price of the vehicle. 
+2. Vehicle price: As is always the case selling price will be a factor, we need to understand who our core demographic for this vehicle will be and determine their financial median purchasing history.
+3. Features: As cars modernize more and more clients in some markets are requesting modern feature sets, such as integrated smart displays, infotainment centers, heated seats, etc. We need to look into what the costs per feature will be to the price of the vehicle and what features are a "must have". 
+
+We would need to collect data in these fields:
+1. Per market median household incomes, and historical median purchase price of vehicles. We would also need to see how many vehicles per household. This would allow us to get a better understanding of our pricing strategy. We could use a linear regression model to determine the mean and median and see how much deviation may be acceptable. 
+2. Feature set per vehicle sold data would be neccessary as well, with costing information so that we could determine how much to add the determined "must have" features and we could determine if they could be added into the price of the vehicle or absorbed from the margin.
+
+
+
+
+
 
 
 
