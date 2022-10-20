@@ -29,6 +29,8 @@ The slope of this linear model is not considered zero, as is seen in our data th
 
 The R-squared value in this model shows as that it is a 0.7149, which means that as a predictor of MPG this data set has a probability to predict in over 71% percent of the time. This by any measure is a decent predictor of MPG and is very effective as a measure. Obviously there are other factors that could bring this higher but at this time based on the variables in this data it is the best predictor we have.
 
+## Summary Statistics on Suspension Coils
+
 
 
 
