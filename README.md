@@ -14,7 +14,8 @@ To do this we looked at six different variables in our data:
 5. Vehicle Length
 6. MPG
 
-![This is an image]([https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/mecha_LM.png](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/mecha_lm_summary.png))
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/mecha_LM.png)
+![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/mecha_lm_summary.png)
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Based on the linear regression model we built we can see a few variables that seem to have a non-random variance to the impact of the MPG. 
+Based on the linear regression summary in the second image we can see that
