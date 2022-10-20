@@ -45,14 +45,20 @@ In this scenario we opted to group the suspension coils by their manufacturing l
 ## T-Tests on Suspension Coils
 
 Lot 1 T-Test:
+
+
 ![This is an Image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_1_ttest.png)
 
 
 Lot 2 T-Test:
+
+
 ![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_2_ttest.png)
 
 
 Lot 3 T-Test:
+
+
 ![This is an image](https://github.com/Bren42/MechaCar_Statistical_Analysis/blob/main/images/Lot_3_ttest.png)
 
 
